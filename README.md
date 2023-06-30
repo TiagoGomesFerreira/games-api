@@ -19,7 +19,7 @@ Exemplo:
 	"password": "minhasenha"
 }
 ```
-####Respostas
+#### Respostas
 ##### ok! 200
 Caso essa resposta aconteça, você receberá o token JWT para conseguir acesso os endpoints protegidos na API.
 
